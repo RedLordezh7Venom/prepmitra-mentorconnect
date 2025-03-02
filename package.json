@@ -6,7 +6,7 @@
     "type": "desktop",
     "gui": {
       "backgroundColor": "#1F2430",
-      "height": "940",
+      "height": "600",
       "width": "820"
     }
   },
